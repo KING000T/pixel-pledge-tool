@@ -1,0 +1,4 @@
+- [ ] Build the Repeato public landing experience with premium responsive styling
+- [ ] Add a live QR join demo and interactive customer wallet/business preview
+- [ ] Add route metadata and verify the preview has no build/runtime errors
+- [ ] Add Cloud-backed authentication, multi-business data, and redemption persistence
